@@ -1,0 +1,8 @@
+[package]
+name = "with-ggez"
+version = "0.1.0"
+authors = ["te9yie <te9yie@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+ggez = "*"
